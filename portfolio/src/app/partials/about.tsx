@@ -18,7 +18,7 @@ const About = () => {
         <div className="flex flex-col sm:flex-row justify-center items-center sm:items-start">
           <div className="p-2 sm:max-w-[70%]">
             <p className="my-2 text-sm md:text-base">
-              Hi! My name is Keshav. I'm a web developer and digital visual
+              Hi! My name is Keshav. I&apos;m a web developer and digital visual
               artist. I love creating things that exist on the internet. My
               interest in web development started in 2019 when I decided to
               upload my digital concept arts online.

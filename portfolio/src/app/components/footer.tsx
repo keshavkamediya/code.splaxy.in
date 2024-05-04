@@ -11,7 +11,7 @@ const Footer = () => {
     <div className="flex items-center justify-center flex-col">
       <div className={`${firacode.className} items-center text-center mb-10`}>
         <p className="text-2xl text-zinc-200 py-20 px-3">
-          "Learning, Living and Leveling Up."
+          &quot;Learning, Living and Leveling Up.&quot;
         </p>
         <p className="bg-gradient-to-r from-cyan-500 from-10% to-pink-300 text-xl bg-clip-text text-transparent">
           GetinTouch();

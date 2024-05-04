@@ -48,7 +48,7 @@ export default function Home() {
 
           <Link href={"/contact"} className="w-fit relative text-slate-950">
             <p className="bg-slate-200/20 backdrop-blur-md p-2 px-6 rounded-lg font-medium">
-              Let's Connect !
+              Let&apos;s Connect !
             </p>
             <span className="bg-gradient-to-br from-[#71cbff] to-[#8000ff] absolute w-full h-full top-0 left-0 m-1.5 -z-10 rounded-lg"></span>
           </Link>
